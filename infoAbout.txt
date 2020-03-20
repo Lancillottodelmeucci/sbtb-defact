@@ -1,0 +1,7 @@
+You can use our files (sbtb-defact. :c, cpp, java, js/html) to be able use the file contained in the .sbtb files. You can find them on our git repository online.
+Install git on your computer and use the command (without quote):
+"git clone  https://github.com/Lancillottodelmeucci/sbtb-defact.git"
+or download them as .zip from internet page of the rep on:
+https://github.com/Lancillottodelmeucci/sbtb-defact.git
+
+Write us for every problem or question to sbtb-defact@gmail.com !Note that the email is not active yet! we are sorry for every discomfort we created.
